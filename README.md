@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-QAQ。
+- GitHub Education status: Approved (since Dec 29)
+- Copilot status: Still Copilot Free, quota exceeded, reset on Jan 20
+- /settings/copilot does not show Pro or Education eligibility
+- Education Pack page does not show Copilot redeem
+- Previously used Copilot Free before Education approval
+
